@@ -1,102 +1,164 @@
 <a href="https://komarev.com/ghpvc/?username=Hassan-Raza0">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=Hassan-Raza0&label=Profile%20Views&icon=2&pretty=true" />
+  <img align="right" src="https://visitcount.itsvg.in/api?id=Hassan-Raza0&label=Profile%20Views&icon=2&pretty=true" />
 </a>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Hassan-Raza0?label=Total%20Stars&color=FF6A3D)
 
-<!-- Intro  -->
-<h3 align="center">
-   Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Hassan-Raza0" style="color:#9DAAF2">Hassan Raza</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</b>
-</h3>
-<p align="center">
-  <a href="https://github.com/Hassan-Raza0"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Computer+Science+Professional;IT+Expert;Database+Specialist;Full-Stack+Developer" alt="Typing SVG" /></a></a>
-</p>
+---
 
-<p align="center">     
-    「 Computer Science Professional with 5+ years in IT, skilled in database management, data structures, algorithms, networking, and full-stack web development using Java, Python, C, and C++. from <b>Pakistan</b> 」
-    <br>
-    <br>
+<h2 align="center">
+  Hey There! 👋 I’m <a href="https://github.com/Hassan-Raza0">Hassan Raza</a>
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=4F6BED&center=true&vCenter=true&width=850&lines=Data+Science+%26+Analytics+Professional;Machine+Learning+%26+Deep+Learning+Practitioner;Python+Automation+Engineer;Full-Stack+Web+Developer" />
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/hassan-soomro-a11496192/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
- </a>
+  <b>Computer Science Professional</b> with <b>5+ years</b> of experience building
+  <b>data-driven systems</b>, <b>machine learning models</b>, and
+  <b>scalable web applications</b> using
+  <b>Python, ML/DL frameworks, and modern backend technologies</b>.
+  <br/>
+  📍 Based in <b>Pakistan</b>
 </p>
-<br />
 
-<!-- About Section -->
-
-Here's the updated **About Me** section:
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassan-soomro-a11496192/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://discord.com/invite/TqvEDzEv" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
 <p align="center">
-  <a href="https://github.com/Hassan-Raza0"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&width=435&height=52&lines=IT+Professional;Database+Expert;Full-Stack+Web+Developer;Algorithms+Specialist;Data+Structures+%26+Algorithms" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=4F6BED&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Data+Analysis;Machine+Learning+%7C+Deep+Learning;Python+Automation;Web+Development" />
 </p>
 
-<p>
- <img align="right" width="350" src="./assets/animation.gif" alt="Coding man Hassan" />
-👨‍💻 &emsp; Available for <code style="color:#9DAAF2">consultations</code> and <code style="color:#9DAAF2">IT projects</code>.<br/><br/>
-✍️ &emsp; Skilled in <code style="color:#9DAAF2">database management</code>, <code style="color:#9DAAF2">algorithms</code>, and <code style="color:#9DAAF2">data structures</code>.<br/><br/>
-📘 &emsp; Currently enhancing my expertise in <code style="color:#9DAAF2">Web Development | Programming</code> and <code style="color:#9DAAF2">networking</code>.<br/><br/>
-📧 &emsp; Reach me at: <a style="color:#9DAAF2" href="mailto=hassansoomroraza@gmail.com"> hassansoomroraza@gmail.com"</a><br/><br/>
-💬 &emsp; Ask me anything <a style="color:#9DAAF2" href="https://github.com/Hassan-Raza0/Hassan-Raza0/issues">here</a>
+### 🔍 Core Focus Areas
 
-</p>
-</p>
+✅ **Data Science & Data Analysis**
+- Exploratory Data Analysis (EDA)
+- Data cleaning, preprocessing & visualization
+- Insight generation for decision-making
 
-<br/>
-<br/>
-<br/>
+✅ **Machine Learning**
+- Supervised & Unsupervised learning
+- Feature engineering & model evaluation
+- Scikit-learn pipelines
 
-## My Tech Stack
+✅ **Deep Learning**
+- Neural Networks (ANN, CNN fundamentals)
+- TensorFlow & Keras
+- Model training & optimization
 
-![Java](https://img.shields.io/badge/Java-09131B?style=for-the-badge&logo=java)
+✅ **Python Automation**
+- Data pipelines & scripting
+- Workflow automation
+- API integrations & scheduled tasks
+
+✅ **Web Development**
+- Backend-focused web applications
+- REST APIs & database-driven systems
+- Python & PHP-based solutions
+
+---
+
+### 💼 Availability & Contact
+
+- 🧠 Available for **consultations**, **freelance**, and **long-term projects**
+- 📧 Email: **hassansoomroraza@gmail.com**
+- 💬 Ask anything or collaborate via
+  [GitHub Issues](https://github.com/Hassan-Raza0/Hassan-Raza0/issues)
+
+---
+
+## 🧠 Technical Expertise & Tooling
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-09131B?style=for-the-badge&logo=python&logoColor=FFDD54)
-![HTML5](https://img.shields.io/badge/HTML5-09131B?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-09131B?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-09131B?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-09131B?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-09131B?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-09131B?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-09131B?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09131B?style=for-the-badge&logo=postgresql)
-![C++](https://img.shields.io/badge/C++-09131B?style=for-the-badge&logo=cplusplus)
-![Cisco](https://img.shields.io/badge/Cisco-09131B?style=for-the-badge&logo=cisco)
-![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
-![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 📊 Data Science & Analytics
+![Data Science](https://img.shields.io/badge/Data_Science-09131B?style=for-the-badge&logo=anaconda)
+![Pandas](https://img.shields.io/badge/Pandas-09131B?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-09131B?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-09131B?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-09131B?style=for-the-badge&logo=python)
+
+---
+
+### 🤖 Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-09131B?style=for-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-09131B?style=for-the-badge&logo=scikitlearn)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-09131B?style=for-the-badge&logo=python)
+
+---
+
+### 🧠 Deep Learning & AI
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-09131B?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-09131B?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-09131B?style=for-the-badge&logo=keras)
+
+---
+
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-09131B?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![REST API](https://img.shields.io/badge/REST_API-09131B?style=for-the-badge&logo=fastapi)
 ![WordPress](https://img.shields.io/badge/WordPress-09131B?style=for-the-badge&logo=wordpress)
-![VSCode](https://img.shields.io/badge/VS_Code-09131B?style=for-the-badge&logo=visualstudiocode&logoColor=005BA4)
+
+---
+
+### ☁️ DevOps, Databases & Networking
+![MySQL](https://img.shields.io/badge/MySQL-09131B?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09131B?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-09131B?style=for-the-badge&logo=nginx)
-![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=docker&logoColor=119AD4)
+![Cisco](https://img.shields.io/badge/Cisco-09131B?style=for-the-badge&logo=cisco)
 
-<br/>
+---
 
-## My Stats
+### 🛠️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-09131B?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-09131B?style=for-the-badge&logo=visualstudiocode)
+![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown)
+
+---
+
+## 📈 GitHub Performance
 
 <p align="center">
-  <a href="https://github.com/Hassan-Raza0" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=codeSTACKr&border=9DAAF2" alt="Hassan's GitHub streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=codeSTACKr&border=4F6BED" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hassan-Raza0">
-    <img style="border: 2px solid #9DAAF2; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Raza0&theme=codeSTACKr" alt="Hassan's GitHub Contribution"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Raza0&theme=codeSTACKr" />
 </p>
 
-<a> 
-    <a href="https://github.com/Hassan-Raza0"><img alt="Hassan Raza's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Hassan-Raza0&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Hassan-Raza0"><img alt="Hassan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Raza0&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Hassan-Raza0&show_icons=true&count_private=true&bg_color=09131B&title_color=FF652F&text_color=FFFFFF" width="49%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Raza0&layout=compact&bg_color=09131B&title_color=FF652F&text_color=FFFFFF" width="49%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Raza0&custom_title=Hassan's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Hassan's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
-<a align="center" href="https://www.buymeacoffee.com/hassanraza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Raza0&bg_color=09131B&color=4F6BED&line=FF652F&area=true" />
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hassanraza" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" />
+  </a>
+</p>
