@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <b>Computer Science Professional</b> with <b>5+ years</b> of experience building
-  <b>data-driven solutions</b>, <b>ML/DL models</b>, and
-  <b>scalable backend-heavy web applications</b>
-  using <b>Python, JavaScript, ML frameworks, and modern web stacks</b>.
+  <b>Computer Science Professional</b> with <b>5+ years</b> of experience delivering
+  <b>data-driven solutions</b>, <b>machine learning models</b>, and
+  <b>scalable backend-focused web applications</b>
+  using <b>Python, JavaScript, ML/DL frameworks, and modern web stacks</b>.
   <br/>
   📍 Based in <b>Pakistan</b>
 </p>
@@ -45,27 +45,27 @@
 ✅ **Data Science & Data Analysis**
 - Exploratory Data Analysis (EDA)
 - Data cleaning, preprocessing & feature engineering
-- Business insights & decision support
+- Insight generation for business & decision-making
 
 ✅ **Machine Learning**
 - Supervised & Unsupervised learning
 - Model evaluation, tuning & pipelines
-- Scikit-learn & production-ready workflows
+- Scikit-learn, XGBoost, LightGBM
 
 ✅ **Deep Learning**
 - Neural Networks (ANN, CNN)
-- TensorFlow & Keras
-- Model optimization & training strategies
+- TensorFlow, Keras, PyTorch
+- Model training & optimization
 
 ✅ **Python Automation**
-- Automation scripts & workflows
-- Data pipelines & schedulers
-- API consumption & integrations
+- Data pipelines & scripting
+- Workflow automation
+- API integrations & schedulers
 
-✅ **Web Development (Modern Stack)**
+✅ **Modern Web Development**
 - Frontend: React, Next.js
 - Backend: Node.js, Express.js, Django
-- REST APIs & scalable server-side systems
+- REST APIs & scalable systems
 
 ---
 
@@ -98,7 +98,7 @@
 
 ---
 
-### 📊 Data Science & Data Analysis
+### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-09131B?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-09131B?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-09131B?style=for-the-badge&logo=plotly)
@@ -131,7 +131,59 @@
 
 ---
 
-## 📈 GitHub Performance
+## 🚀 Machine Learning & Data Science Projects
+
+- 📊 **Data Science Portfolio**  
+  Real-world data analysis, EDA, ML models, and notebooks  
+  👉 `Hassan-Raza0/Data_Science_Portfolio`
+
+- 🧠 **Business & Analytics Portfolio**  
+  Data-driven insights, automation, and applied ML  
+  👉 `Hassan-Raza0/business-portfolio`
+
+- ⚙️ **Python Automation**
+  Workflow automation, APIs, and data pipelines
+
+---
+
+## 📊 Contribution Activity & Strategy
+
+I focus on **consistent, real contributions** driven by actual projects.
+
+Recent activity includes:
+- ✔ Active development in **Data_Science_Portfolio**
+- ✔ Active development in **business-portfolio**
+- ✔ Regular commits across ML, data analysis, and automation
+- ✔ Repository creation and structured commits (2026)
+
+This ensures:
+- Sustainable contribution growth
+- Clean, meaningful commit history
+- Recruiter-relevant GitHub activity
+
+---
+
+## 🌐 Personal Portfolio Website (In Progress)
+
+I am building a **personal portfolio website** derived from this GitHub profile.
+
+**Planned Features**
+- Data Science & ML case studies
+- Deep Learning demos
+- Python automation workflows
+- Full-stack web projects
+
+**Planned Stack**
+- Frontend: **Next.js + React**
+- Backend: **Node.js / Django**
+- Styling: **Tailwind CSS**
+- Deployment: **Vercel**
+
+📌 This will act as a central professional hub.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=codeSTACKr&border=4F6BED" />
