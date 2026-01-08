@@ -11,14 +11,14 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=4F6BED&center=true&vCenter=true&width=850&lines=Data+Science+%26+Analytics+Professional;Machine+Learning+%26+Deep+Learning+Practitioner;Python+Automation+Engineer;Full-Stack+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=4F6BED&center=true&vCenter=true&width=900&lines=Data+Science+%26+Analytics+Professional;Machine+Learning+%26+Deep+Learning+Practitioner;Python+Automation+Engineer;Full-Stack+Web+Developer" />
 </p>
 
 <p align="center">
   <b>Computer Science Professional</b> with <b>5+ years</b> of experience building
-  <b>data-driven systems</b>, <b>machine learning models</b>, and
-  <b>scalable web applications</b> using
-  <b>Python, ML/DL frameworks, and modern backend technologies</b>.
+  <b>data-driven solutions</b>, <b>ML/DL models</b>, and
+  <b>scalable backend-heavy web applications</b>
+  using <b>Python, JavaScript, ML frameworks, and modern web stacks</b>.
   <br/>
   📍 Based in <b>Pakistan</b>
 </p>
@@ -37,35 +37,35 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=4F6BED&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Data+Analysis;Machine+Learning+%7C+Deep+Learning;Python+Automation;Web+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=4F6BED&center=true&vCenter=true&width=950&lines=Data+Science+%7C+Data+Analysis;Machine+Learning+%7C+Deep+Learning;Python+Automation;Modern+Web+Development" />
 </p>
 
 ### 🔍 Core Focus Areas
 
 ✅ **Data Science & Data Analysis**
 - Exploratory Data Analysis (EDA)
-- Data cleaning, preprocessing & visualization
-- Insight generation for decision-making
+- Data cleaning, preprocessing & feature engineering
+- Business insights & decision support
 
 ✅ **Machine Learning**
 - Supervised & Unsupervised learning
-- Feature engineering & model evaluation
-- Scikit-learn pipelines
+- Model evaluation, tuning & pipelines
+- Scikit-learn & production-ready workflows
 
 ✅ **Deep Learning**
-- Neural Networks (ANN, CNN fundamentals)
+- Neural Networks (ANN, CNN)
 - TensorFlow & Keras
-- Model training & optimization
+- Model optimization & training strategies
 
 ✅ **Python Automation**
-- Data pipelines & scripting
-- Workflow automation
-- API integrations & scheduled tasks
+- Automation scripts & workflows
+- Data pipelines & schedulers
+- API consumption & integrations
 
-✅ **Web Development**
-- Backend-focused web applications
-- REST APIs & database-driven systems
-- Python & PHP-based solutions
+✅ **Web Development (Modern Stack)**
+- Frontend: React, Next.js
+- Backend: Node.js, Express.js, Django
+- REST APIs & scalable server-side systems
 
 ---
 
@@ -73,7 +73,7 @@
 
 - 🧠 Available for **consultations**, **freelance**, and **long-term projects**
 - 📧 Email: **hassansoomroraza@gmail.com**
-- 💬 Ask anything or collaborate via
+- 💬 Collaboration & Q/A:
   [GitHub Issues](https://github.com/Hassan-Raza0/Hassan-Raza0/issues)
 
 ---
@@ -82,59 +82,52 @@
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-09131B?style=for-the-badge&logo=python&logoColor=FFDD54)
+![JavaScript](https://img.shields.io/badge/JavaScript-09131B?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-09131B?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-09131B?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-09131B?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-09131B?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-09131B?style=for-the-badge&logo=php)
 
 ---
 
-### 📊 Data Science & Analytics
-![Data Science](https://img.shields.io/badge/Data_Science-09131B?style=for-the-badge&logo=anaconda)
-![Pandas](https://img.shields.io/badge/Pandas-09131B?style=for-the-badge&logo=pandas)
+### 🌐 Web Development Stack
+![React](https://img.shields.io/badge/React-09131B?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-09131B?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-09131B?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-09131B?style=for-the-badge&logo=django)
+
+---
+
+### 📊 Data Science & Data Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-09131B?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-09131B?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-09131B?style=for-the-badge&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/Seaborn-09131B?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-09131B?style=for-the-badge&logo=jupyter)
 
 ---
 
 ### 🤖 Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-09131B?style=for-the-badge&logo=scikitlearn)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-09131B?style=for-the-badge&logo=scikitlearn)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-09131B?style=for-the-badge&logo=python)
+![XGBoost](https://img.shields.io/badge/XGBoost-09131B?style=for-the-badge&logo=python)
+![LightGBM](https://img.shields.io/badge/LightGBM-09131B?style=for-the-badge&logo=python)
 
 ---
 
 ### 🧠 Deep Learning & AI
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-09131B?style=for-the-badge&logo=tensorflow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-09131B?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-09131B?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-09131B?style=for-the-badge&logo=pytorch)
 
 ---
 
-### 🌐 Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-09131B?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
-![REST API](https://img.shields.io/badge/REST_API-09131B?style=for-the-badge&logo=fastapi)
-![WordPress](https://img.shields.io/badge/WordPress-09131B?style=for-the-badge&logo=wordpress)
-
----
-
-### ☁️ DevOps, Databases & Networking
-![MySQL](https://img.shields.io/badge/MySQL-09131B?style=for-the-badge&logo=mysql)
+### ☁️ Databases, DevOps & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09131B?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-09131B?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-09131B?style=for-the-badge&logo=nginx)
-![Cisco](https://img.shields.io/badge/Cisco-09131B?style=for-the-badge&logo=cisco)
-
----
-
-### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-09131B?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-09131B?style=for-the-badge&logo=visualstudiocode)
-![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown)
 
 ---
 
