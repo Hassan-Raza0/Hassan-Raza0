@@ -28,31 +28,36 @@
 
 <br/>
 
-<p>
-  <img
-    align="right"
-    width="350"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    style="margin-top:25px"
-    alt="Coding Animation"
-  />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 💼   Software Engineer at <code style="color:#0078D7;">Apexver</code>.<br/><br/>
 
-💻   Building scalable applications with <code style="color:#0078D7;">React</code>, <code style="color:#0078D7;">Next.js</code>, <code style="color:#0078D7;">Node.js</code> & <code style="color:#0078D7;">Python</code>.<br/><br/>
+💻   Building scalable apps with <code style="color:#0078D7;">React</code>, <code style="color:#0078D7;">Next.js</code>, <code style="color:#0078D7;">Node.js</code> & <code style="color:#0078D7;">Python</code>.<br/><br/>
 
 🤖   Exploring <code style="color:#0078D7;">AI</code>, <code style="color:#0078D7;">Machine Learning</code> & <code style="color:#0078D7;">Deep Learning</code>.<br/><br/>
 
-🧠   Developing data-driven solutions using <code style="color:#0078D7;">Python</code>, <code style="color:#0078D7;">Pandas</code>, <code style="color:#0078D7;">Scikit-learn</code> & <code style="color:#0078D7;">PyTorch</code>.<br/><br/>
+🧠   Building data-driven solutions with <code style="color:#0078D7;">Python</code>, <code style="color:#0078D7;">Pandas</code> & <code style="color:#0078D7;">PyTorch</code>.<br/><br/>
 
 💬   Let’s discuss software engineering, AI, and technology —
-<a style="color:#0078D7" href="https://github.com/Hassan-Raza0/Hassan-Raza0/issues">
-   say hi here
-</a>!<br/><br/>
+<a style="color:#0078D7" href="https://github.com/Hassan-Raza0/Hassan-Raza0/issues">say hi here</a>!<br/><br/>
 
 ✨   Fun fact: *I enjoy turning complex problems into practical solutions.*
 
-</p>
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  width="350"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding Animation"
+/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 <hr/>
@@ -126,7 +131,10 @@
 
   <p align="center">
     <a href="https://github.com/Hassan-Raza0">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=transparent&border=0078D7&stroke=0078D7" alt="Hassan Raza's GitHub streak"/>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=transparent&border=0078D7&stroke=0078D7"
+        alt="Hassan Raza's GitHub Streak"
+      />
     </a>
   </p>
 
