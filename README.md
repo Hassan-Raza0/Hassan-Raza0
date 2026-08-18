@@ -27,10 +27,15 @@
   <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top:25px"/>
 
 💼   Software Engineer at <code style="color:#0078D7;">Apexver</code>.<br/><br/>
+
 💻   Building scalable applications with <code style="color:#0078D7;">React</code>, <code style="color:#0078D7;">Next.js</code>, <code style="color:#0078D7;">Node.js</code> & <code style="color:#0078D7;">Python</code>.<br/><br/>
+
 🤖   Exploring <code style="color:#0078D7;">AI</code>, <code style="color:#0078D7;">Machine Learning</code> & <code style="color:#0078D7;">Deep Learning</code>.<br/><br/>
+
 🧠   Developing data-driven solutions using <code style="color:#0078D7;">Python</code>, <code style="color:#0078D7;">Pandas</code>, <code style="color:#0078D7;">Scikit-learn</code> & <code style="color:#0078D7;">PyTorch</code>.<br/><br/>
+
 💬   Let’s discuss software engineering, AI, and technology — <a style="color:#0078D7" href="https://github.com/Hassan-Raza0/Hassan-Raza0/issues">say hi here</a>!<br/><br/>
+
 ✨   Fun fact: *I enjoy turning complex problems into practical solutions.*
 
 </p>
@@ -39,6 +44,7 @@
 <hr/>
 
 <div align="center"> 
+
   <a href="mailto:hassansoomroraza@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-F2F2F2?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
@@ -50,28 +56,36 @@
   <a href="https://github.com/Hassan-Raza0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </div>
 
 <hr/>
 
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,html,css,tailwind,vscode,github" /><br>
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,postgres,mysql,mongodb,firebase,docker,git,postman,linux" /><br>
+
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,html,css,tailwind,vscode,github" />
+
+    <br>
+
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,postgres,mysql,mongodb,firebase,docker,git,postman,linux" />
+
 </div>
 
 <hr/>
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
+
 <br/>
 
 <div align="left">
 
 🔹 <b><a href="https://github.com/Hassan-Raza0/CoverCell">CoverCell Insurance</a></b> — Modern insurance web application built with React, TypeScript, Tailwind CSS, Firebase Authentication, and Firestore.<br/><br/>
 
-🔹 <b><a href="https://github.com/Hassan-Raza0/Data_Science_Portfolio">Data Science Portfolio</a></b> — Collection of real-world data analysis, exploratory data analysis, machine learning models, and Python-based projects.<br/><br/>
+🔹 <b><a href="https://github.com/Hassan-Raza0/Data_Science_Portfolio">Data Science Portfolio</a></b> — Real-world data analysis, exploratory data analysis, machine learning models, and Python-based projects.<br/><br/>
 
 🔹 <b><a href="https://github.com/Hassan-Raza0/business-portfolio">Business & Analytics Portfolio</a></b> — Data-driven business analysis, visualization, automation, and applied machine learning projects.<br/><br/>
 
@@ -83,58 +97,86 @@
 <hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 <br/>
 
 <div align="center">
 
-   <p align="center">
-    <a href="https://github.com/Hassan-Raza0">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=transparent&border=0078D7&stroke=0078D7" alt="Hassan Raza's GitHub streak"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/Hassan-Raza0">
-      <img style="border: 2px solid #0078D7; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Raza0&theme=github_light" alt="Hassan Raza's GitHub Contribution"/>
-    </a>
-  </p>
-
   <a href="https://github.com/Hassan-Raza0">
-    <img alt="Hassan Raza's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Hassan-Raza0&show_icons=true&count_private=true&border_color=0078D7&bg_color=FFFFFF&title_color=0078D7&icon_color=0078D7&text_color=000000" height="192px" width="49.5%"/>
+    <img
+      height="192px"
+      src="https://github-readme-stats.vercel.app/api?username=Hassan-Raza0&show_icons=true&rank_icon=github&theme=transparent&border_color=0078D7&title_color=0078D7&icon_color=0078D7"
+      alt="Hassan Raza's GitHub Stats"
+    />
   </a>
 
   <a href="https://github.com/Hassan-Raza0">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Raza0&langs_count=8&layout=compact&border_color=0078D7&bg_color=FFFFFF&text_color=000000&title_color=0078D7&icon_color=0078D7" height="192px" width="49.5%"/>
+    <img
+      height="192px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Raza0&layout=compact&langs_count=8&theme=transparent&border_color=0078D7&title_color=0078D7"
+      alt="Hassan Raza's Top Languages"
+    />
   </a>
 
-  <br/>
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Raza0&custom_title=Hassan%20Raza's%20GitHub%20Activity&bg_color=FFFFFF&color=0078D7&line=00A6A6&point=0078D7&area_color=E5F7F7&title_color=0078D7&area=true" alt="Hassan Raza's GitHub Activity" style="border: 1px solid #0078D7; border-radius: 6px;" />
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Raza0&custom_title=Hassan%20Raza's%20GitHub%20Activity&bg_color=FFFFFF&color=0078D7&line=00A6A6&point=0078D7&area_color=E5F7F7&title_color=0078D7&area=true"
+    alt="Hassan Raza's GitHub Activity"
+    style="border: 1px solid #0078D7; border-radius: 6px;"
+  />
 
 </div>
 
 <hr/>
 
-<h2 align="center">🌌 3D Contribution Graph 🌌</h2>
+<h2 align="center">🌌 Contribution Snake 🌌</h2>
+
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph Animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 <hr/>
 
 <h2 align="center">💬 Dynamic Quote of the Day 💬</h2>
+
 <br/>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteCategory=motivational" alt="Dynamic Quote"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteCategory=motivational"
+    alt="Dynamic Quote"
+  />
 </p>
 
 <hr/>
 
 <p align="center">
   <a href="https://github.com/Hassan-Raza0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=48&pause=2000&color=0078D7&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!" alt="Thanks for visiting!" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=48&pause=2000&color=0078D7&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!"
+      alt="Thanks for visiting!"
+    />
   </a>
 </p>
