@@ -60,7 +60,7 @@
 <div align="center">
 
   <a href="mailto:hassansoomroraza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F2F2F2?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-F2F2F2?style=for-the-badge&logo=gmail&logoColor=EA4336" />
   </a>
 
   <a href="https://linkedin.com/in/hassan-raza-soomro-a11496192/" target="_blank">
@@ -124,45 +124,46 @@
 
 <div align="center">
 
+  <p align="center">
+    <a href="https://github.com/Hassan-Raza0">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-Raza0&theme=transparent&border=0078D7&stroke=0078D7" alt="Hassan Raza's GitHub streak"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Hassan-Raza0">
+      <img
+        style="border: 2px solid #0078D7; border-radius: 6px;"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Raza0&theme=github_light"
+        alt="Hassan Raza's GitHub Contribution"
+      />
+    </a>
+  </p>
+
   <a href="https://github.com/Hassan-Raza0">
     <img
-      height="192px"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassan-Raza0&theme=github"
       alt="Hassan Raza's GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/Hassan-Raza0">
-    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Hassan-Raza0&show_icons=true&count_private=true&border_color=0078D7&bg_color=FFFFFF&title_color=0078D7&icon_color=0078D7&text_color=000000"
       height="192px"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassan-Raza0&theme=github"
-      alt="Hassan Raza's Most Used Languages"
+      width="49.5%"
     />
   </a>
-
-</div>
-
-<br/>
-
-<div align="center">
 
   <a href="https://github.com/Hassan-Raza0">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Raza0&theme=github"
-      alt="Hassan Raza's GitHub Contribution Profile"
+      alt="Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Raza0&langs_count=8&layout=compact&border_color=0078D7&bg_color=FFFFFF&text_color=000000&title_color=0078D7&icon_color=0078D7"
+      height="192px"
+      width="49.5%"
     />
   </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+  <br/>
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Raza0&custom_title=Hassan%20Raza's%20GitHub%20Activity&bg_color=FFFFFF&color=0078D7&line=00A6A6&point=0078D7&area_color=E5F7F7&title_color=0078D7&area=true"
     alt="Hassan Raza's GitHub Activity"
-    style="border:1px solid #0078D7; border-radius:6px;"
+    style="border: 1px solid #0078D7; border-radius: 6px;"
   />
 
 </div>
@@ -174,24 +175,10 @@
 <br/>
 
 <p align="center">
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <hr/>
