@@ -1,7 +1,10 @@
 <h3 align="center">
    Hey There! I’m
-   <b><a target="_blank" href="https://github.com/Hassan-Raza0" style="color:#0078D7;">Hassan Raza</a>
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   <b>
+      <a target="_blank" href="https://github.com/Hassan-Raza0" style="color:#0078D7;">
+         Hassan Raza
+      </a>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    </b>
 </h3>
 
@@ -19,12 +22,20 @@
 
 <hr/>
 
-<h3 align="center">🚀 Software Engineer building scalable, intelligent, and data-driven applications.</h3>
+<h3 align="center">
+   🚀 Software Engineer building scalable, intelligent, and data-driven applications.
+</h3>
 
 <br/>
 
 <p>
-  <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top:25px"/>
+  <img
+    align="right"
+    width="350"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    style="margin-top:25px"
+    alt="Coding Animation"
+  />
 
 💼   Software Engineer at <code style="color:#0078D7;">Apexver</code>.<br/><br/>
 
@@ -34,7 +45,10 @@
 
 🧠   Developing data-driven solutions using <code style="color:#0078D7;">Python</code>, <code style="color:#0078D7;">Pandas</code>, <code style="color:#0078D7;">Scikit-learn</code> & <code style="color:#0078D7;">PyTorch</code>.<br/><br/>
 
-💬   Let’s discuss software engineering, AI, and technology — <a style="color:#0078D7" href="https://github.com/Hassan-Raza0/Hassan-Raza0/issues">say hi here</a>!<br/><br/>
+💬   Let’s discuss software engineering, AI, and technology —
+<a style="color:#0078D7" href="https://github.com/Hassan-Raza0/Hassan-Raza0/issues">
+   say hi here
+</a>!<br/><br/>
 
 ✨   Fun fact: *I enjoy turning complex problems into practical solutions.*
 
@@ -43,7 +57,7 @@
 <br/>
 <hr/>
 
-<div align="center"> 
+<div align="center">
 
   <a href="mailto:hassansoomroraza@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-F2F2F2?style=for-the-badge&logo=gmail&logoColor=EA4335" />
@@ -66,13 +80,9 @@
 <br/>
 
 <div align="center">
-
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,html,css,tailwind,vscode,github" />
-
-    <br>
-
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,postgres,mysql,mongodb,firebase,docker,git,postman,linux" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,html,css,tailwind,vscode,github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,postgres,mysql,mongodb,firebase,docker,git,postman,linux" />
 </div>
 
 <hr/>
@@ -83,11 +93,23 @@
 
 <div align="left">
 
-🔹 <b><a href="https://github.com/Hassan-Raza0/CoverCell">CoverCell Insurance</a></b> — Modern insurance web application built with React, TypeScript, Tailwind CSS, Firebase Authentication, and Firestore.<br/><br/>
+🔹 <b>
+<a href="https://github.com/Hassan-Raza0/CoverCell">
+   CoverCell Insurance
+</a>
+</b> — Modern insurance web application built with React, TypeScript, Tailwind CSS, Firebase Authentication, and Firestore.<br/><br/>
 
-🔹 <b><a href="https://github.com/Hassan-Raza0/Data_Science_Portfolio">Data Science Portfolio</a></b> — Real-world data analysis, exploratory data analysis, machine learning models, and Python-based projects.<br/><br/>
+🔹 <b>
+<a href="https://github.com/Hassan-Raza0/Data_Science_Portfolio">
+   Data Science Portfolio
+</a>
+</b> — Real-world data analysis, exploratory data analysis, machine learning models, and Python-based projects.<br/><br/>
 
-🔹 <b><a href="https://github.com/Hassan-Raza0/business-portfolio">Business & Analytics Portfolio</a></b> — Data-driven business analysis, visualization, automation, and applied machine learning projects.<br/><br/>
+🔹 <b>
+<a href="https://github.com/Hassan-Raza0/business-portfolio">
+   Business & Analytics Portfolio
+</a>
+</b> — Data-driven business analysis, visualization, automation, and applied machine learning projects.<br/><br/>
 
 🔹 <b>Statistical Arbitrage Trading System</b> — Research-driven quantitative trading system involving statistical modeling, pair trading, regime analysis, backtesting, and risk validation.
 
@@ -105,7 +127,7 @@
   <a href="https://github.com/Hassan-Raza0">
     <img
       height="192px"
-      src="https://github-readme-stats.vercel.app/api?username=Hassan-Raza0&show_icons=true&rank_icon=github&theme=transparent&border_color=0078D7&title_color=0078D7&icon_color=0078D7"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassan-Raza0&theme=github"
       alt="Hassan Raza's GitHub Stats"
     />
   </a>
@@ -113,8 +135,21 @@
   <a href="https://github.com/Hassan-Raza0">
     <img
       height="192px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Raza0&layout=compact&langs_count=8&theme=transparent&border_color=0078D7&title_color=0078D7"
-      alt="Hassan Raza's Top Languages"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassan-Raza0&theme=github"
+      alt="Hassan Raza's Most Used Languages"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/Hassan-Raza0">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassan-Raza0&theme=github"
+      alt="Hassan Raza's GitHub Contribution Profile"
     />
   </a>
 
@@ -127,7 +162,7 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-Raza0&custom_title=Hassan%20Raza's%20GitHub%20Activity&bg_color=FFFFFF&color=0078D7&line=00A6A6&point=0078D7&area_color=E5F7F7&title_color=0078D7&area=true"
     alt="Hassan Raza's GitHub Activity"
-    style="border: 1px solid #0078D7; border-radius: 6px;"
+    style="border:1px solid #0078D7; border-radius:6px;"
   />
 
 </div>
@@ -140,6 +175,7 @@
 
 <p align="center">
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake-dark.svg"
@@ -151,9 +187,10 @@
     />
 
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/Hassan-Raza0/Hassan-Raza0/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
     />
+
   </picture>
 </p>
 
